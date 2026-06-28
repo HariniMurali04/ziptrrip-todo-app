@@ -1,0 +1,31 @@
+# Ziptrrip Todo Application
+
+## Project Overview
+This is a multi-page Todo application developed using React for the frontend and Node.js with Express.js for the backend.
+
+The application allows users to create, view, update, complete, and delete todos. Data is stored in a local JSON file.
+
+## Features and Functionalities
+
+### Frontend Features
+- Add a new todo
+- View all todos in a list
+- Mark todo as completed or pending
+- Delete todo
+- View single todo details on a separate page
+- Single todo page receives todo ID using query parameter
+- Modern responsive UI
+
+### Backend Features
+- REST API created using Node.js and Express.js
+- CRUD operations for todos
+- Data stored in `todos.json`
+- CORS enabled for frontend-backend communication
+
+## Pages
+
+### Todo List Page
+URL:
+
+```txt
+http://localhost:5173/
