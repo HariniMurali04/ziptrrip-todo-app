@@ -137,7 +137,7 @@ It displays:
 
 ## Backend API
 
-![Backend API](screenshots/backend-running.png)
+![Backend Running](screenshots/backend-running.png)
 
 ---
 
